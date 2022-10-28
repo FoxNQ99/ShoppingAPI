@@ -1,0 +1,11 @@
+{
+  "name": "shopping_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FoxNQ99",
+  "license": "ISC"
+}
